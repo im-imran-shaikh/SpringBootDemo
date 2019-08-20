@@ -8,10 +8,11 @@
 </head>
 <body>
 
-		<h4>${Message}</h4>
+		<h4>${Message}</h4></br>
 		
 		
 		<form action="add">
+		<h3>Calculate two Number</h3>
 		<input type = "text" name = "t1"></br>
 		<input type = "text" name = "t2"></br>
 		<input type = "submit" value = "send">
